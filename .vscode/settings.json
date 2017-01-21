@@ -1,0 +1,8 @@
+// 설정을 이 파일에 넣어서 기본 설정과 사용자 설정을 덮어씁니다.
+{
+  "python.pythonPath": "./bin/python",
+  "python.autoComplete.extraPaths": [
+    "./lib/python2.7",
+    "./lib/python2.7/site-packages"
+  ]
+}
